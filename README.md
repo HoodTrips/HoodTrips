@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning: Java
 - 📚 I currently know: python
 
-[Metrics]https://metrics.lecoq.io/hoodtrips?template=classic&config)
+![Metrics](https://metrics.lecoq.io/hoodtrips?template=classic&config)
